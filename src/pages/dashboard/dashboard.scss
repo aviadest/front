@@ -1,0 +1,16 @@
+.dashboard-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    .charts {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        section {
+            margin: 22px;
+            border: 1px solid black;
+        }
+    }
+}

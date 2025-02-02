@@ -1,0 +1,15 @@
+.filter-container {
+    width: 40%;
+    margin: 18px;
+
+
+    .date-picker {
+        margin: 16px 0 8px 0;
+    }
+
+    .buttons {
+        display: flex;
+        justify-content: space-around;
+        margin: 16px 0 8px 0;
+    }
+}
